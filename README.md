@@ -21,7 +21,7 @@ A lightweight Inventory Management System built using the **LAMP Stack** (Linux,
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/kabakadev/inventory-manager.git](https://github.com/kabakadev/inventory-manager.git)
+    git clone https://github.com/kabakadev/inventory-manager.git
     ```
 
 2.  **Configure Database:**
